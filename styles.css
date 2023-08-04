@@ -1,0 +1,13 @@
+<head>
+  ...
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  ...
+
+</head>
+
+dropdown-menu{
+  overflow-x: visible !important;
+  overflow-y: visible !important;
+}
+
+  
